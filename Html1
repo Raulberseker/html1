@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>  
+    <meta charset="UTF-8">
+    <title>Filmes Favoritos do Raulzinho Ferraz</title>    
+    <style>
+        img, p, h1, h2, h3, h4, h5 {
+            display: block;
+            margin: auto;
+            text-align: center;
+        }
+    </style>
+</head>
+<body style="background-color: aquamarine;">
+    <h1>RAUL'S FAVORITE MOVIES</h1><br>
+    <h1>1º Filme: Simplesmente Acontece</h1>
+    <img src="https://br.web.img3.acsta.net/pictures/14/12/11/15/29/051042.jpg" alt="Simplesmente Acontece">
+    <p>Alex e Rosie são dois amigos de infância inseparáveis, que precisam enfrentar a distância quando Alex decide estudar em Boston. Embora a vida traga segredos e amores para os dois, a ligação entre eles continua a mesma.</p><br>
+
+    <h2>2º Filme: Percy Jackson e o Ladrão de Raios</h2>
+    <img src="https://br.web.img3.acsta.net/r_1280_720/medias/nmedia/18/71/92/68/19225578.jpg" alt="Percy Jackson e o Ladrão de Raios">
+    <p>Um artefato precioso foi roubado do Monte Olimpo e Percy é o principal suspeito. Para restaurar a paz, ele e seus amigos, jovens heróis modernos, terão de fazer mais do que capturar o verdadeiro ladrão: precisam elucidar uma traição mais ameaçadora que fúria dos deuses.</p><br>
+
+    <h3>3º Filme: João e Maria Caçadores de Bruxas</h3>
+    <img src="https://media.fstatic.com/6q0S5vBKwaCiwE2pbKPwxOq0CTw=/322x478/smart/filters:format(webp)/media/movies/covers/2022/09/images_2_14_EDsRI3a.jpeg" alt="João e Maria Caçadores de Bruxas">
+    <p>João e Maria se tornam vigilantes determinados a defender seu povo. Em determinado momento, eles passam a ser caçados e terão de enfrentar algo muito mais assustador do que bruxas e monstros: seu passado!</p><br>
+
+    <h4>4º Filme: Harry Potter e o Cálice de Fogo</h4>
+    <img src="https://upload.wikimedia.org/wikipedia/pt/7/7b/Harry_Potter_C%C3%A1lice_Fogo_2004.jpg" alt="Harry Potter e o Cálice de Fogo">
+    <p>Harry é escolhido pelo Cálice de Fogo para competir como um dos campeões de Hogwarts, tendo ao lado seus fiéis amigos. Muitos desafios, feitiços, poções e confusões estão reservados para Harry.</p><br>
+
+    <h5>5º Filme: Animais Fantásticos: Os Crimes de Grindelwald</h5>
+    <img src="https://br.web.img3.acsta.net/c_310_420/pictures/18/11/08/14/45/3423559.jpg">
+	<p>Em 1927, Grindelwald é transferido para a Europa pelo Congresso Mágico dos EUA (MACUSA) enquanto aguarda julgamento, mas no caminho ele consegue fugir. Recrutando mais seguidores para uma possível Guerra, o bruxo faz um grande comício mostrando uma visão futura de como seria a guerra mundial entre trouxas e bruxos.</p>
+	<br>
+
+	<p style="font-size: small; font-weight: bold;"> Autoria: Raul Ferraz</p>
+	<a href="https://www.linkedin.com/in/raulferrazj/" target="_blank" style="font-size: small; font-weight: bold;">Linkedln</a>
+</body>
+</html>
