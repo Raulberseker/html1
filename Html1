@@ -4,14 +4,20 @@
     <meta charset="UTF-8">
     <title>Filmes Favoritos do Raulzinho Ferraz</title>    
     <style>
-        img, p, h1, h2, h3, h4, h5 {
+        img, p, a, h1, h2, h3, h4, h5 {
             display: block;
             margin: auto;
             text-align: center;
         }
+        h1, h2, h3, h4, h5 {
+            border: 1px solid black;
+            padding: 10px;
+            margin-bottom: 20px;
+        }
+
     </style>
 </head>
-<body style="background-color: aquamarine;">
+<body style="background-color:aqua">
     <h1>RAUL'S FAVORITE MOVIES</h1><br>
     <h1>1º Filme: Simplesmente Acontece</h1>
     <img src="https://br.web.img3.acsta.net/pictures/14/12/11/15/29/051042.jpg" alt="Simplesmente Acontece">
@@ -34,7 +40,7 @@
 	<p>Em 1927, Grindelwald é transferido para a Europa pelo Congresso Mágico dos EUA (MACUSA) enquanto aguarda julgamento, mas no caminho ele consegue fugir. Recrutando mais seguidores para uma possível Guerra, o bruxo faz um grande comício mostrando uma visão futura de como seria a guerra mundial entre trouxas e bruxos.</p>
 	<br>
 
-	<p style="font-size: small; font-weight: bold;"> Autoria: Raul Ferraz</p>
-	<a href="https://www.linkedin.com/in/raulferrazj/" target="_blank" style="font-size: small; font-weight: bold;">Linkedln</a>
+	<p style="font-size: small; font-weight: bold;"> Autoria: Raul Ferraz</p><br>
+	<a href="https://www.linkedin.com/in/raulferrazj/" target="_blank" style="font-size: small; font-weight: bold;">Linkedln do Raulzinho</a>
 </body>
 </html>
